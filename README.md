@@ -8,4 +8,4 @@ Hi!  I really like data.  And I like visualization.  So I guess you can say that
 All the things - obviously. 
 
 # Portfolio
-Here's where all my cool work will go.  You should probably hire me. 
+Here's where all my cool work will go.  You should probably hire me.  
