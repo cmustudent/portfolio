@@ -24,3 +24,7 @@ Any of those formats will work. Here's some examples of working links:
 `[title](dataviz)` = [title](dataviz)  
 `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
 `[CMU](www.cmu.edu)` = [CMU](www.cmu.edu)   
+
+Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab): 
+
+https://cmustudent.github.io/portfolio/
