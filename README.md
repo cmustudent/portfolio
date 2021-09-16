@@ -27,4 +27,4 @@ Any of those formats will work. Here's some examples of working links:
 
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab): 
 
-https://cmustudent.github.io/portfolio/
+<https://cmustudent.github.io/portfolio/>
